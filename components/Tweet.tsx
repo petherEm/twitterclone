@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import { Tweet } from '../typings'
+import { Tweet, Comment, CommentBody, TweetBody,  } from '../typings'
 import TimeAgo from 'react-timeago'
 import {
   ChatAlt2Icon,
